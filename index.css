@@ -133,6 +133,10 @@ body{
           margin: 0 auto;
       }
 
+      .card1, .card2, .card3{
+          margin-top: 30px;
+      }
+
       .attribution{
           margin-top: 10px;
       }
